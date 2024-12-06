@@ -18,7 +18,7 @@ We may collect the following types of information:
 - When you register for an account, we may collect personal details such as your name, email address, and password.
 
 #### **b. Location Data**
-- **Precise Location Data:** Our app may collect and use location data to provide location-based features, such as signup and pay so you can access the app. Location data may also be collected in the background, even when the app is not in use, if you grant us permission.
+- **Precise Location Data:** Our app collects and uses location data **only while the app is in use** to enable specific features such as signup and payments. Location data is not collected or accessed when the app is running in the background.
 
 #### **c. Usage Data**
 - Information about how you use our app, including the features you access and the content you create.
@@ -73,4 +73,4 @@ We may update this Privacy Policy from time to time. Changes will be effective i
 ### **9. Contact Us**
 If you have any questions or concerns about this Privacy Policy or the data we collect, please contact us at:
 
-**Email:** elitesport.tn@gmail.com   
+**Email:** elitesport.tn@gmail.com
